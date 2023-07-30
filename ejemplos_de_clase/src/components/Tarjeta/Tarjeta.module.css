@@ -1,0 +1,12 @@
+.contenedor{
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  margin:20px;
+}
+
+.texto {
+  color: black;
+  font-size: 1.2rem;
+}

@@ -1,0 +1,14 @@
+.boton{
+  background: linear-gradient(220deg, #2A6ED4 0%, #13B79F 100%);
+  width: 200px;
+  height: 70px;
+  color: white;
+  margin:20px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  font-size: 20px;
+  border:#40e0b8 2px solid;
+}

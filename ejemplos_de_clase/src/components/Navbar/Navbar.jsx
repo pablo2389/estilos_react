@@ -11,16 +11,16 @@ const Navbar = () => {
             <NavLink to="/">1-CSS</NavLink>
           </li>
           <li>
-            <NavLink to="/module-css">1-Module CSS</NavLink>
+            <NavLink to="/module-css">2-Module CSS</NavLink>
           </li>
           <li>
-            <NavLink to="/style-js">2-Style JS</NavLink>
+            <NavLink to="/style-js">3-Style JS</NavLink>
           </li>
           <li>
-            <NavLink to="/mui-componentes">3-MUI Componentes</NavLink>
+            <NavLink to="/mui-componentes">4-MUI Componentes</NavLink>
           </li>
           <li>
-            <NavLink to="/mui-ejemplo">4-MUI Ejemplo</NavLink>
+            <NavLink to="/mui-ejemplo">5-MUI Ejemplo</NavLink>
           </li>
         </ul>
       </nav>

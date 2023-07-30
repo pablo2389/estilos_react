@@ -8,12 +8,10 @@ const StyleJS=()=>{
         "color": "white",
         "background": "#052833",
         "display": "flex",
-        "justify-content": "center",
-        "align-items": "center",
+        "justifyContent": "center",
+        "alignItems": "center",
         "padding":"30px"
     }
-
-
 
     return(
         // Estilos aplicados directo en el HTML
